@@ -1,0 +1,60 @@
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 892
+Fetched housing data.
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 892
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 897
+Preprocessing...
+Preprocessing finished.
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Saving datasets.
+Preprocessed train datasets stored at data/processed/housing_train.csv.
+Preprocessed test datasets stored at data/processed/housing_test.csv.
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 890
+Model: DecisionTreeRegressor
+R2 score: 0.6577148866115522
+Model: LinearRegression
+R2 score: 0.6585264539973379
+Model: RandomForestRegressor
+R2 score: 0.840252251260681
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 892
+Fetched housing data.
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 892
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 897
+Preprocessing...
+Preprocessing finished.
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Saving datasets.
+Preprocessed train datasets stored at data/processed/housing_train.csv.
+Preprocessed test datasets stored at data/processed/housing_test.csv.
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/create HTTP/1.1" 200 890
+Model: DecisionTreeRegressor
+R2 score: 0.6577148866115522
+Model: LinearRegression
+R2 score: 0.6585264539973379
+Model: RandomForestRegressor
+R2 score: 0.8367707406679677
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
+Resetting dropped connection: 127.0.0.1
+http://127.0.0.1:5000 "POST /api/2.0/mlflow/runs/update HTTP/1.1" 200 381
